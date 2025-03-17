@@ -1,0 +1,53 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.row {
+    gap: 20px;
+}
+
+.user {
+    width: 300px;
+    height:400px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 20px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 16px;
+    color: #7f8c8d;
+    margin-bottom: 8px;
+}
+
+a {
+    display: block;
+    font-size: 14px;
+    color: #3498db;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+
+.phone {
+    font-weight: bold;
+    color: #27ae60;
+}
+
+h4 {
+    font-size: 14px;
+    color: #95a5a6;
+    margin-top: 10px;
+}
